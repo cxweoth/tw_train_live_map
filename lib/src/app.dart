@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:map_live_train/src/blocs/live_train_map_bloc/live_train_map_bloc.dart';
-import 'package:map_live_train/src/resources/repository.dart';
+import 'package:tw_train_live_map/src/blocs/live_train_map_bloc/live_train_map_bloc.dart';
+import 'package:tw_train_live_map/src/resources/repository.dart';
 import 'package:flutter/material.dart';
 import 'ui/live_train_map_form_view.dart';
 

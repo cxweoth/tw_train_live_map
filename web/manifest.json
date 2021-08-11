@@ -1,6 +1,6 @@
 {
-    "name": "map_live_train",
-    "short_name": "map_live_train",
+    "name": "tw_train_live_map",
+    "short_name": "tw_train_live_map",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

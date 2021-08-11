@@ -2,8 +2,8 @@ import 'dart:io';
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:map_live_train/src/models/live_train_model.dart';
-import 'package:map_live_train/src/.secrets/secrets.dart';
+import 'package:tw_train_live_map/src/models/live_train_model.dart';
+import 'package:tw_train_live_map/src/.secrets/secrets.dart';
 
 import 'package:intl/intl.dart' as intl;
 import 'package:crypto/crypto.dart';

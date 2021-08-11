@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:map_live_train/src/models/train_line_model.dart';
-import 'package:map_live_train/src/utils/read_json.dart';
+import 'package:tw_train_live_map/src/models/train_line_model.dart';
+import 'package:tw_train_live_map/src/utils/read_json.dart';
 
 import 'dart:developer' as developer;
 
