@@ -10,4 +10,7 @@ IOS simulator:
 
 Android Pixel 4a device:
 
+![26534](https://user-images.githubusercontent.com/64124476/129438009-66abd9f9-54ed-4f5c-bc3a-3ec8baa74645.jpg)
+
+
 
